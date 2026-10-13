@@ -4,6 +4,7 @@ public class Car {
     int year= 2026;
     double price=25322.99;
     boolean isRunning = false;
+    int age =16;
 
     void start(){
         System.out.println("The car is running!!");
